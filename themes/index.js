@@ -1,3 +1,11 @@
+  "Ge-tech": {
+    title_color: "D77B8A",     // Rosa - título
+    text_color: "D77B8A",      // Rosa - texto
+    icon_color: "EF8867",      // Laranja - ícones
+    bg_color: "FFFFFF",        // Branco - fundo
+    border_color: "3D3A3A",    // Borda cinza
+  },
+
 export const themes = {
   default: {
     title_color: "2f80ed",
